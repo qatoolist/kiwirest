@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "kiwirest"
+  project_description: "KIWIRest is a simplified though powerful restful BDD API automation tool"
+  organization: "kiwirest"
+  license: "MIT"
+  version: "0.1.0"
+  github_name: "kiwirest"
+  email: "qatoolist@gmail.com"
